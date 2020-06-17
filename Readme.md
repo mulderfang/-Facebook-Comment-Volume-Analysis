@@ -1,4 +1,4 @@
-# < Facebook Comment Volume Analysis >
+# Facebook Comment Volume Analysis
 
 ### Goal
 分析Facebook 貼文資料集，目的希望能建立預測留言數量的模型，並且用於評估貼文成效好壞。
