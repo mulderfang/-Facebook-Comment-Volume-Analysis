@@ -1,7 +1,7 @@
 # Facebook Comment Volume Analysis
 
 ### Goal
-分析Facebook 貼文資料集，目的希望能建立預測留言數量的模型，並且用於評估貼文成效好壞。
+分析Facebook 貼文資料集，根據回覆數量多寡與按讚等互動指標判斷貼文效果，目的希望能建立預測留言數量的模型，並且用於評估貼文成效好壞。
 ### Demo 
 ```R
 Rscript model_rf.R --data data.csv
@@ -25,11 +25,6 @@ http://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset?fbclid=Iw
 * Data preprocessing:
   * Feture Selection
   * Feature Classification
-
-### code
-
-* method: Random Forests
-* How do your perform evaluation? >>Cross-validation
 
 ### results
 
